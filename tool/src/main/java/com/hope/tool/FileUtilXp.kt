@@ -4,7 +4,7 @@ import android.text.TextUtils
 import android.util.Log
 import java.io.File
 
-object FileUtils {
+object FileUtilXp {
 
     /** 删除文件，可以是文件或文件夹
      * @param delFile 要删除的文件夹或文件名
